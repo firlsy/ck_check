@@ -154,7 +154,7 @@ async function run(type = 0){
         let s = 0
         let t = 0
         do{
-            const flCodeArr = ["kKeBDtR","kKe8Bnk","kIe89mq","kKeBDtR","kLe6qxN"];//鸡蛋不要放在一个篮子里
+            const flCodeArr = ["","","","",""];//鸡蛋不要放在一个篮子里
             for (let i = 0; i < 5; i++) {
                 flCodeArr.push(rebateCodes)
             }
